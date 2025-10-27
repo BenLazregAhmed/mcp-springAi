@@ -1,0 +1,15 @@
+Company Name: Maroc Telecom
+Activity: Telecom
+Turnover: 3.6
+Employees Number: 10600
+Country: Maroc
+Owner: Ahmed
+Stock Price: 276.87 (as of 2025-10-23)
+
+Company Name: OCP
+Activity: Extraction minière
+Turnover: 5.6
+Employees Number: 20000
+Country: Maroc
+Owner: Ahmed
+Stock Price: 603.72 (as of 2025-10-23)

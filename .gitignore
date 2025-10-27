@@ -1,0 +1,112 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+# ====================================
+# 🅰️ Angular / Frontend (front/)
+# ====================================
+/front/node_modules/
+/front/dist/
+/front/.angular/cache/
+/front/.vscode/
+/front/.env
+/front/package-lock.json
+
+# Logs
+/front/npm-debug.log*
+/front/yarn-debug.log*
+/front/yarn-error.log*
+
+# ====================================
+# ☕ Spring Boot / Java backend
+# ====================================
+/target/
+/build/
+/out/
+/.gradle/
+/mvnw.cmd
+/mvnw
+/.mvn/
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+*.swp
+*.iml
+*.idea/
+*.class
+*.jar
+*.war
+*.ear
+
+# Spring environment
+application-*.yml
+application-*.properties
+.env
+
+# ====================================
+# 🐍 Python / Utilities
+# ====================================
+/venv/
+/.venv/
+/__pycache__/
+/*.py[cod]
+/*.egg-info/
+/.env
+/.pytest_cache/
+/.mypy_cache/
+/.pytest_cache/
+/.ipynb_checkpoints
+
+# ====================================
+# 🧰 OS & Editor files
+# ====================================
+Thumbs.db
+*.swo
+.idea/
+*.orig
+
+# ====================================
+# 🧪 Testing / Coverage
+# ====================================
+/coverage/
+/test-output/
+/reports/
+/htmlcov/
+*.coverage
+*.pytest_cache
